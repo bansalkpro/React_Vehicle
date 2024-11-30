@@ -1,0 +1,47 @@
+{
+  "vehicles": [
+    {
+      "image": "https://images.pexels.com/photos/119435/pexels-photo-119435.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Vehicle 2",
+      "description": "Vehicle 2 description",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Vehicle 3",
+      "image": "https://images.pexels.com/photos/1335077/pexels-photo-1335077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Vehicle 3 description"
+    },
+    {
+      "image": "https://images.moneycontrol.com/static-mcnews/2022/06/LamboF.jpg?impolicy=website&width=1600&height=900",
+      "name": "cars7",
+      "description": "test desc1",
+      "id": "6"
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2023/02/07/17/49/supercar-7774683_640.jpg",
+      "name": "Car 7",
+      "description": "wow",
+      "id": "65c5"
+    },
+    {
+      "id": "ef8b",
+      "image": "https://muneerlyati.com/wp-content/uploads/2021/07/That-is-definitely-the-top-luxury-car-brand-globally.jpg",
+      "name": "Car 1",
+      "descriptiom": "",
+      "description": "Desc 1"
+    },
+    {
+      "image": "https://cdn.motor1.com/images/mgl/NGGZon/s3/koenigsegg-gemera.jpg",
+      "name": "CarLuxury",
+      "description": "nice",
+      "id": "87c2"
+    },
+    {
+      "id": "973c",
+      "image": "https://d2m3nfprmhqjvd.cloudfront.net/blog/20220228142855/evoindia_2021-04_ace4dc66-2b1e-4378-ac6c-fc2fc10053f3_493410__1_.jpg",
+      "name": "Luxury SUV",
+      "description": "Luxury SUV"
+    }
+  ]
+}
